@@ -1,6 +1,6 @@
 let vidas = 0
 input.onButtonPressed(Button.A, function () {
-    music.playMelody("C5 B A G F - - - ", 200)
+    music.playMelody("F F D D A E D C ", 626)
     vidas = 5
     basic.showNumber(vidas)
 })
